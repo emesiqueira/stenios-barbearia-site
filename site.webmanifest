@@ -1,0 +1,10 @@
+{
+  "name": "Stenio's Barbearia",
+  "short_name": "Stenio's",
+  "description": "Barbearia premium no Guarujá com cortes, barba, tratamentos e clube de assinatura.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "pt-BR"
+}
